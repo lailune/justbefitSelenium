@@ -1,1 +1,2 @@
-# justbefitSelenium
+# Justbefit Selenium runner
+
